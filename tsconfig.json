@@ -1,0 +1,8 @@
+{"compilerOptions": {
+    "target": "esnext",
+    "module": "CommonJS",
+    "moduleResolution":"Node",
+    "resolveJsonModule": true,
+},
+"include": ["./**/*.ts"]
+}
